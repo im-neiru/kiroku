@@ -1,0 +1,6 @@
+max_width = 80
+tab_spaces = 2
+reorder_imports = true
+group_imports = "StdExternalCrate"
+imports_layout = "Vertical"
+trailing_comma = "Never"
